@@ -5,16 +5,20 @@ import './navbar.css'
 
 
 function Menu() {
+  const scrollToSection = (id) => {
+    const element = document.getElementById(id);
+    element.scrollIntoView({ behavior: "smooth" });
+  }
+
   return (
     <>
-              <p><a href="#home"></a>Home</p>
-              <p><a href="#wgpt3"></a>What is GPT3?</p>
-              <p><a href="#possibility"></a>Open AI</p>
-              <p><a href="#features"></a>Case Studies</p>
-              <p><a href="#blog"></a>Library</p>
-              </>
+      <p><a href="#home" onClick={() => scrollToSection("home")}>Home</a></p>
+      <p><a href="#wgpt3" onClick={() => scrollToSection("wgpt3")}>What is GPT3?</a></p>
+      <p><a href="#possibility" onClick={() => scrollToSection("possibility")}>Open AI</a></p>
+      <p><a href="#features" onClick={() => scrollToSection("features")}>Case Studies</a></p>
+      <p><a href="#blog" onClick={() => scrollToSection("blog")}>Library</a></p>
+    </>
   )
-  
 }
  
 function Navbar() {
