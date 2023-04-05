@@ -6,11 +6,11 @@ function CTA() {
   return (
     <div className="gpt3__cta">
         <div className="gpt3__cta-content">
-          <p>Request Early Access to Get Started</p>
-          <h3>Register today & start exploring the endless possiblities.</h3>
+          <p>Explorez dès maintenant les possibilités infinies de GPT-3</p>
+          <h3>Nous sommes là pour vous accompagner à chaque étape de votre voyage.</h3>
         </div>
         <div className="gpt3__cta-btn">
-          <button type="button">Get Starded</button>
+          <button type="button">Commencer</button>
         </div>
     </div>
   )

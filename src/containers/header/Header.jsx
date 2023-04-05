@@ -8,7 +8,7 @@ function Header() {
     <div className="gpt3__header section__padding" id="home">
         <div className="gpt3__header-content">
           <h1 className="gradient__text ">Construisons quelque chose d'incroyable avec GPT-3</h1>
-          <p>Offrez-vous une aide de voyage pour voyager dans les mondes de l'intelligence artificielle. Nous sommes là pour vous guider à travers les possibilités infinies offertes par GPT-3.</p>
+          <p>Plongez dans les univers fascinants de l'intelligence artificielle. Nous sommes là pour vous accompagner et vous aider à explorer les innombrables possibilités offertes par le modèle de langage GPT-3. Rejoignez-nous pour un voyage passionnant au cœur de l'IA !</p>
           <div className="gpt3__header-content__input">
             <input type="email" placeholder="Votre adresse e-mail"/>
             <button type="button">Commencer</button>

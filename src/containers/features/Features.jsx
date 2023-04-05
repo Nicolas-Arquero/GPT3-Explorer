@@ -4,20 +4,21 @@ import './features.css'
 
 const featuresData = [
   {
-    title:'Improving end distrusts instantly ',
-    text:'From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded.'
+    title:"Explorez les possibilités infinies",
+    text:" Découvrez comment GPT-3 peut transformer votre entreprise avec des modèles de langage naturel sophistiqués et personnalisables."
+    
   },
   {
-    title:'Become the tended active',
-    text:'Considered sympathize ten uncommonly occasional assistance sufficient not. Letter of on become he tended active enable to.'
+    title:"Restez à la pointe de la technologie",
+    text:"Accédez à la technologie de pointe dès maintenant et explorez les fonctionnalités émergentes de GPT-3 pour trouver de nouvelles façons d'améliorer votre travail."
   },
   {
-    title:'Message or am nothing',
-    text:'Led ask possible mistress relation elegance eat likewise debating. By message or am nothing amongst chiefly address.'
+    title:"Augmentez votre créativité grâce à GPT-3",
+    text:"Créez des œuvres d'art numériques avec GPT-3 en utilisant des modèles pré-entraînés pour générer du texte, des images et de la musique."
   },
   {
-    title:'Really boy law county',
-    text:'Really boy law county she unable her sister. Feet you off its like like six. Among sex are leave law built now. In built table in an rapid blush.'
+    title:"Simplifiez votre vie grâce à GPT-3",
+    text:"Automatisez les tâches répétitives avec GPT-3 en utilisant l'IA pour effectuer des tâches fastidieuses et répétitives de manière plus efficace."
   }
 ]
 
@@ -26,8 +27,8 @@ function Features() {
   return (
     <div className="gpt3__features section__padding" id="features">
         <div className="gpt3__features-heading">
-          <h1 className="gradient__text">The Future is Now and You Just Need To Realize It. Step into Future Today & Make it Happen.</h1>
-          <p>Request Early Access to Get Started</p>
+          <h1 className="gradient__text">Ne laissez pas le futur vous échapper. Avec GPT-3, vous pouvez déjà explorer les possibilités infinies qui s'offrent à vous.</h1>
+          <p>Demander un accès anticipé</p>
         </div>
         <div className="gpt3__features-container">
         {featuresData.map((item, index) => {

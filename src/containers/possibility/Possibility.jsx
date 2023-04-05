@@ -9,10 +9,10 @@ function Possibility() {
             <img src={possibilityImage} alt="possibility"/>
         </div>
         <div className="gpt3__possibility-content">
-          <h4>Request Early Access to Get Started</h4>
-          <h1 className="gradient__text">The possibilities are beyond your imagination</h1>
-          <p>Yet bed any for travelling assistance indulgence unpleasing. Not thoughts all exercise blessing. Indulgence way everything joy alteration boisterous the attachment. Party we years to order allow asked of.</p>
-          <h4>Request Early Access to Get Started</h4>
+          <h4> Laissez-nous vous guider dans votre voyage vers le futur.</h4>
+          <h1 className="gradient__text">Entrez dans le futur dès maintenant avec GPT-3</h1>
+          <p>Que vous soyez un développeur expérimenté ou que vous cherchiez simplement à vous aventurer dans le monde de l'IA, nous sommes là pour vous aider. </p>
+          <h4>Rejoignez-nous aujourd'hui.</h4>
         </div>
     </div>
   )

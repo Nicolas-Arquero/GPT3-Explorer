@@ -8,26 +8,26 @@ function WhatGPT3() {
     <div className="gpt3__whatgpt3 section__margin" id="wgpt3">
       <div className="gpt3__whatgpt3-feature" >
         <Feature
-          title="What is GPT-3"
-          text="We so opinion friends me message as delight. Whole front do of plate heard oh ought. His defective nor convinced residence own. Connection has put impossible own apartments boisterous. At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by."
+          title="Qu'est-ce que GPT 3 ?"
+          text="GPT-3 est un modèle de langage révolutionnaire de l'intelligence artificielle développé par OpenAI. Ce modèle est capable de générer du texte à partir de données d'entrée, en utilisant des algorithmes avancés de traitement du langage naturel."
         />
       </div>
       <div className="gpt3__whatgpt3-heading" >
-        <h1 className="gradient__text" >The possibilities are beyond your imagination</h1>
-        <p>Explore The Library</p>
+        <h1 className="gradient__text" >Les possibilités dépassent votre imagination</h1>
+        <p>Explorer</p>
       </div>
       <div className="gpt3__whatgpt3-container">
         <Feature 
           title="Chatbots"
-          text="We so opinion friends me message as delight. Whole front do of plate heard oh ought."
+          text="Découvrez comment GPT-3 peut être utilisé pour créer des chatbots intelligents capables de communiquer avec les utilisateurs de manière naturelle et fluide. "
         />
         <Feature
-          title="Knowledgebase"
-          text="At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b"
+          title="Connaissances"
+          text="Découvrez comment GPT-3 peut être utilisé pour créer une base de connaissances intelligente et dynamique."
         />
         <Feature 
           title="Education"
-          text="At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b"
+          text="Découvrez comment GPT-3 peut être utilisé pour soutenir l'éducation en ligne, en aidant les enseignants à créer des ressources éducatives interactives et en fournissant des outils d'apprentissage personnalisés aux étudiants. "
         />
       </div>
     </div>
