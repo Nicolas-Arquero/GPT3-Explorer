@@ -6,39 +6,35 @@ function Footer() {
   return (
     <div className="gpt3__footer section__padding">
         <div className="gpt3__footer-heading">
-          <h1 className="gradient__text">Do you want to step in to the future before others</h1>
+          <h1 className="gradient__text">Voulez-vous entrer dans le futur avant les autres ?</h1>
         </div>
         <div className="gpt3__footer-btn">
-          <p>Request Early Acess</p>
+          <p>Demander un accès anticipé</p>
         </div>
 
         <div className="gpt3__footer-links">
           <div className="gpt3__footer-links_logo">
             <img src={gpt3Logo} alt="logo" />
-            <p>Crechterwoord K12 182 DK Alknjkcb, All Rights Reserved</p>
           </div>
           <div className="gpt3__footer-links_div">
-              <h4>Links</h4>
-              <p>Overons</p>
-              <p>Social Media</p>
-              <p>Counters</p>
+              <h4>Liens</h4>
+              <p>À propos de nous</p>
+              <p>Réseaux sociaux</p>
               <p>Contact</p>
           </div>
           <div className="gpt3__footer-links_div">
-              <h4>Company</h4>
-              <p>Terms & Conditions</p>
-              <p>Privacy Policy</p>
-              <p>Contact</p>
+              <h4>Entreprise</h4>
+              <p>Conditions d'utilisation</p>
+              <p>Politique de confidentialité</p>
           </div>
           <div className="gpt3__footer-links_div">
-              <h4>Crechterwoord K12 182 DK Alknjkcb</h4>
-              <p>085-132567</p>
-              <p>info@payme.net</p>
+              <h4>2200 Powell St., Suite 780, Emeryville</h4>
+              <p>info@gpt3explorer.net</p>
           </div>
         </div>
 
         <div className="gpt3__footer-copyright">
-          <p>© 2023 GPT-3. All rights reserved.</p>
+          <p>© 2023 Nicolas ARQUERO. All rights reserved.</p>
         </div>
     </div>
   )
