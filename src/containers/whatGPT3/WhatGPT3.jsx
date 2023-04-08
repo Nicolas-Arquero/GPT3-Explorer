@@ -5,7 +5,7 @@ import './whatGPT3.css'
 
 function WhatGPT3() {
   return (
-    <div className="gpt3__whatgpt3 section__margin" id="wgpt3">
+    <div className="gpt3__whatgpt3 marginCust" id="wgpt3">
       <div className="gpt3__whatgpt3-feature" >
         <Feature
           title="Qu'est-ce que GPT 3 ?"
